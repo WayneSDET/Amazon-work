@@ -1,3 +1,9 @@
+/** This was a gui I created on the fly to facilitate
+ * efficient execution of the reconciler code. It was never
+ * intended to be robust production code, hence the absence
+ * of exception handling.
+ * /
+
 package amazon.dtp.script.reconciler;
 
 import java.awt.BorderLayout;
